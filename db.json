@@ -1,13 +1,10 @@
 
 {
-  {
-  "stats": [
+  
   { "id": 1, "title": "wins",  "description": "The NYM have won 12% of the games you've watched or attended", "total": "2% wins"},
   { "id": 2, "title": "losses", "description": "The NYM have won 70% of the games you've watched or attended", "total": "70%"},
   { "id": 3, "title": "home runs", "description": "The NYM have 0 Home Runs in the games you've watched or attended", "total": "0"},
   { "id": 4, "title": "batting average", "description": "The NYM have a 5 Batting Average in the games you've watched or attended", "total": ".000"}
     
-  ] 
-}
   
 }
