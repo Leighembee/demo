@@ -1,4 +1,4 @@
-
+{
   "wins":{
   "description": "The NYM have won 12% of the games you've watched or attended",
   "total": "2% wins"
@@ -16,3 +16,4 @@
     "total": ".000"
   }
 
+}
