@@ -1,5 +1,5 @@
-
-{[
+[
+{
   "wins":{
   "id": 1, 
   "description": "The NYM have won 12% of the games you've watched or attended",
@@ -20,4 +20,5 @@
     "description": "The NYM have a 5 Batting Average in the games you've watched or attended",
     "total": ".000"
   }
-]}
+}
+  ]
